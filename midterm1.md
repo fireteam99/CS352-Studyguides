@@ -88,6 +88,8 @@ members
 * Messages are split into smaller pieces called packets
 * Pipelining means multiple parts of the message are sent concurrently
 
+![packet-switching](https://lh3.googleusercontent.com/proxy/QfISdn3l-R9mHuZQE-O1ibkAU_EFj_KR_h_hxMdGZjJK-5n003stML3NH00aU-XonqLknBr60R0hDHlzsFQVu3MPOPiihfA)
+
 ### Store and forward
 * Router waits for all message bits to arrive before sending the first bit to outgoing link
 * The internet uses store and forward packet switching
